@@ -1,6 +1,6 @@
 # Handwritten-Math-Expression-Recognition
 
-This is project is aimed at recognizing, segementing, classifying and parsing handwrittem math expressions.
+This is project is aimed at recognizing, segementing, classifying and parsing handwritten math expressions.
 
 Phase-1 of the project i.e. classification of individual math symbols along with junk rejection has been completed as of 3/5/2018.
 
